@@ -1,0 +1,18 @@
+1. git branch branca00
+  git checkout branca01
+  git status
+5. git branch main 
+  git status
+  git log
+  Li falten els commits de la branca00
+6. No, aquesta linea esta afegida a la versió del codi de la branca00 no a la de la main
+
+7. Si, perque aquesta linea ha estat afegida en el codi de la branca seleccionada actualment
+
+10b. git merge branca00
+
+12. git push
+    Si, perque solament hem fet push de la branca main
+
+14. git push --set-upstream origin branca01
+    Estaria a un commit ahead
